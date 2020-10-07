@@ -19,5 +19,5 @@ var routes = require("./controllers/burgers_controller.js");
 app.use(routes);
 
 app.listen(PORT, function () {
-  console.log("SERVER IS LISTENING ON PORT 3000");
+  console.log("SERVER IS LISTENING ON PORT", PORT);
 });
