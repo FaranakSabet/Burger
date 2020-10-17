@@ -8,6 +8,9 @@ Whenever a user submits a burger's name, this app displays the burger on the lef
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 My app will store every burger in a database, whether devoured or not.
 
+Directory structure:
+
+
 
 
 ![image](https://user-images.githubusercontent.com/65681350/96355457-abe54400-1096-11eb-9adc-313f12f5f72c.png)
