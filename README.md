@@ -28,4 +28,3 @@ https://eatburg3r.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/65681350/96355457-abe54400-1096-11eb-9adc-313f12f5f72c.png)
 
->>>>>>> 5726f1a17ff7528c83da6b6c84bdf05996200b5b
